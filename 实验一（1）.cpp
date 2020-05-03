@@ -1,4 +1,3 @@
-/*计算1-100的和：*/
 #include<iostream.h>
 int main()
 {
