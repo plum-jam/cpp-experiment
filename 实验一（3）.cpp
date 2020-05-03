@@ -1,4 +1,4 @@
-//计算图形面积：
+//计算图形面积
 #include<iostream>
 using namespace std;
 double graph(double r)
