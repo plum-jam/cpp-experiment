@@ -1,4 +1,4 @@
-//将do-while语句用for语句代替：
+//将do-while语句用for语句代替
 #include<iostream>
 using namespace std;
 int main()
